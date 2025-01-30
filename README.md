@@ -1,4 +1,3 @@
-### 📝 **README.md Template**
 # 🧠 Synapse@DravidianLangTech 2025: Political Sentiment Analysis in Tamil X (Twitter) Comments 
 
 ![GitHub repo](https://img.shields.io/badge/GitHub-Synapse-blue?logo=github)![Python](https://img.shields.io/badge/Python-3.8%2B-blue?logo=python)![Transformers](https://img.shields.io/badge/🤗_Transformers-HuggingFace-yellow?logo=huggingface)![PyTorch](https://img.shields.io/badge/PyTorch-Deep_Learning-red?logo=pytorch)![Scikit-learn](https://img.shields.io/badge/Scikit--Learn-Machine_Learning-orange?logo=scikit-learn)![Pandas](https://img.shields.io/badge/Pandas-Data_Processing-lightblue?logo=pandas)![NAACL](https://img.shields.io/badge/NAACL-2025-ff69b4?logo=academia) 
