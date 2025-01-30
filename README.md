@@ -77,11 +77,6 @@ pip install -r requirements.txt
 python agent.py
 ```
 
-### 🔮 **Running the Full Model**
-```bash
-<need to include>
-```
-
 ---
 
 ## 🛠 Dependencies  
