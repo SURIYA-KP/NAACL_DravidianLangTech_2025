@@ -79,7 +79,7 @@ python agent.py
 
 ---
 
-## 🛠 Dependencies  
+## 🛠 Dependencies for Agentic system 
 📌 **Python 3.8+**  
 📌 `transformers`, `emoji`, `scikit-learn`, `pandas`, `torch`  
 
