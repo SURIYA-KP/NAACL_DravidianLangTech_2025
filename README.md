@@ -79,7 +79,7 @@ python agent.py
 
 ---
 
-## 🛠 Dependencies for Agentic system 
+## 🛠 Dependencies
 📌 **Python 3.8+**  
 📌 `transformers`, `emoji`, `scikit-learn`, `pandas`, `torch`  
 
@@ -90,9 +90,9 @@ pip install -r requirements.txt
 
 ---
 
-## 🤝 Paper Title  
+## 🤝 Paper Link
 📖 **Synapse@DravidianLangTech2025:MulticlassPoliticalSentiment
  AnalysisinTamilX(twitter)Comments:LeveragingFeatureFusionof
- IndicBERTv2andLexicalRepresentations**  
+ IndicBERTv2andLexicalRepresentations**(https://openreview.net/forum?id=3emk1VVVKQ&referrer=%5Bthe%20profile%20of%20Vishal%20A%20S%5D(%2Fprofile%3Fid%3D~Vishal_A_S1))
 
 
