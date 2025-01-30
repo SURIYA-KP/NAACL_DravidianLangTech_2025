@@ -132,7 +132,7 @@ def main():
     
     try:
         analyzer = HashtagAnalyzer(HUGGINGFACE_API_KEY, SERPER_API_KEY)
-        analyzer.process_excel('hash1.xlsx')
+        analyzer.process_excel('hash.xlsx')
         
     except Exception as e:
         logger.error(f"Script execution failed: {e}")
