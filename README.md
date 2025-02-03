@@ -91,8 +91,8 @@ pip install -r requirements.txt
 ---
 
 ## 🤝 Paper Link
-📖 **Synapse@DravidianLangTech2025:MulticlassPoliticalSentiment
- AnalysisinTamilX(twitter)Comments:LeveragingFeatureFusionof
- IndicBERTv2andLexicalRepresentations**(https://openreview.net/forum?id=3emk1VVVKQ&referrer=%5Bthe%20profile%20of%20Vishal%20A%20S%5D(%2Fprofile%3Fid%3D~Vishal_A_S1))
+📖 **Synapse@DravidianLangTech 2025: Multiclass Political Sentiment
+ Analysis in Tamil X (twitter) Comments: Leveraging Feature Fusion of
+ IndicBERTv2andLexicalRepresentations**(https://openreview.net/forum?id=3emk1VVVKQ&referrer=%5Bthe%20profile%20of%20Suriya%20KP%5D(%2Fprofile%3Fid%3D~Suriya_KP1))
 
 
