@@ -2,7 +2,7 @@
 
 ![GitHub repo](https://img.shields.io/badge/GitHub-Synapse-blue?logo=github)![Python](https://img.shields.io/badge/Python-3.8%2B-blue?logo=python)![Transformers](https://img.shields.io/badge/🤗_Transformers-HuggingFace-yellow?logo=huggingface)![PyTorch](https://img.shields.io/badge/PyTorch-Deep_Learning-red?logo=pytorch)![Scikit-learn](https://img.shields.io/badge/Scikit--Learn-Machine_Learning-orange?logo=scikit-learn)![Pandas](https://img.shields.io/badge/Pandas-Data_Processing-lightblue?logo=pandas)![NAACL](https://img.shields.io/badge/NAACL-2025-ff69b4?logo=academia) 
 
-🚀 **Rank 1 of DravidianLangTech@NAACL 2025 Shared Task-**  
+🚀 **DravidianLangTech@NAACL 2025 Shared Task-**  
 
 ## 📌 Overview
 This repository contains the implementation of our approach for **Political Multiclass Sentiment Analysis of Tamil X (Twitter) Comments** in Tamil Twitter (X) comments. Our method leverages **IndicBERTv2-MLM-Back-Translation** along with **TF-IDF features** to effectively classify tweets into seven sentiment categories.
@@ -68,7 +68,7 @@ Our approach fuses **IndicBERTv2 embeddings** with **TF-IDF features** before cl
 
 ## 📦 Installation & Usage  
 ```bash
-git clone https://github.com/SURIYA-KP/NAACL_DravidianLangTech_2025.git
+git clone <URI>.git
 pip install -r requirements.txt
 ```
 
