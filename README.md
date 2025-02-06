@@ -91,7 +91,7 @@ pip install -r requirements.txt
 ---
 
 ## 🤝 Paper Link
-📖 **Synapse@DravidianLangTech 2025: Multiclass Political Sentiment
+📖 **DravidianLangTech 2025: Multiclass Political Sentiment
  Analysis in Tamil X (twitter) Comments: Leveraging Feature Fusion of
  IndicBERTv2andLexicalRepresentations**
 
